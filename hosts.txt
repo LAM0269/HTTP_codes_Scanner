@@ -1,0 +1,8 @@
+http://google.fr
+http://www.facebook.fr
+http://test.fr
+my.ine.com/
+https://outlook.office365.com/
+www.youtube.com/
+https://www.linkedin.com/
+localhost:1000
